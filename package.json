@@ -1,0 +1,26 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CurryBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JP-code33/Slack-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JP-code33/Slack-Bot/issues"
+  },
+  "homepage": "https://github.com/JP-code33/Slack-Bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^5.0.0",
+    "axios": "^1.18.1",
+    "dotenv": "^17.4.2"
+  }
+}
